@@ -1,0 +1,80 @@
+body{
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1,h2,h3,h4,p {
+    text-shadow: 0px 0px 1px black; 
+}
+#bff-img{
+    width: 150px;
+    border-radius: 50%;
+border: 6px solid #EFB0C9 ;
+}
+#bday-age{
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+ #bday-date  {
+    margin: 0px;
+    background: #EFB0C9;
+     background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gift-section{
+    margin-top: 50px;
+}
+.gift-title{
+    margin-bottom: 10px;
+}
+.gift-hint{
+    margin-top: 0px;
+}
+.gift-img {
+    margin: 0 auto;
+    width: 600px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQafcS2xXHXcGSHCPnslX84UcZX1IThUzYkDg&s");
+    background-size: cover;
+}
+#gift-img-cake:hover {
+    background-image: url(https://media3.giphy.com/media/LzwcNOrbA3aYvXK6r7/giphy.webp?cid=790b76112hueplr2ia1djnzt0cwq2q9vtou96zs15thoxipt&ep=v1_gifs_search&rid=giphy.webp&ct=g);
+}
+#gift-img-people:hover {
+    background-image: url(https://media2.giphy.com/media/yoJC2GnSClbPOkV0eA/200.webp?cid=ecf05e47wvjyrmf61fntpngtd1xx35vrgxjamxxr5ru1fh7r&ep=v1_gifs_search&rid=200.webp&ct=g);
+}
+#gift-img-genius:hover {
+    background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxodDR3NWIxNXMxejdwNm42NjRmbzM2aGxyY2NqZ2R5cHZvZ3hibSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o85xr9ZKY1wbbJXDW/giphy.webp);
+}
+#gift-img-badass:hover {
+    background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl3MmF3eXFobDdxcTM2enZlNG5ibGNnMmlvbnhxd2k5NGdvdHoyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ov9jWu7BuHufyLs7m/200.webp);
+}
+#gift-img-cheers{
+    height: 300px;
+}
+#gift-img-cheers:hover {
+    background-image: url(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R0cWZ5Z2JyenJwb2R6MXN6YWN5ZHNkdzhkeHF2MHc4OWwwazN2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t2sKa4JKNW9DawxAYi/200.webp);
+    }
+ #footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+ }   
+a{
+    color: white;
+} 
+  
